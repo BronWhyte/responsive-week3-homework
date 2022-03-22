@@ -72,6 +72,8 @@ p {
   color: var(--primary-color);
   font-size: 28px;
   text-decoration: none;
+  display: flex;
+  justify-content: center;
 }
 
 .email-link:hover {
