@@ -93,3 +93,15 @@ p {
   text-align: left;
   background: #fff;
 }
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 70px;
+  }
+
+  .launch-links {
+    max-width: 100%;
+    display: block;
+    text-align: center;
+  }
+}
